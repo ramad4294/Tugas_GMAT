@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    width: 50%;
+    border: 2px solid red;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+
+.card h1 {
+    text-align: center;
+}
